@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6483912465183308150
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1498451934228416244, guid: 6fce26aa644001545b2292180933dccc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1498451934228416244, guid: 6fce26aa644001545b2292180933dccc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1498451934228416244, guid: 6fce26aa644001545b2292180933dccc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1498451934228416244, guid: 6fce26aa644001545b2292180933dccc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1498451934228416244, guid: 6fce26aa644001545b2292180933dccc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1498451934228416244, guid: 6fce26aa644001545b2292180933dccc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1498451934228416244, guid: 6fce26aa644001545b2292180933dccc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1498451934228416244, guid: 6fce26aa644001545b2292180933dccc, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1498451934228416244, guid: 6fce26aa644001545b2292180933dccc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1498451934228416244, guid: 6fce26aa644001545b2292180933dccc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1498451934228416244, guid: 6fce26aa644001545b2292180933dccc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3122870824319998191, guid: 6fce26aa644001545b2292180933dccc, type: 3}
+      propertyPath: m_Name
+      value: CornCube
+      objectReference: {fileID: 0}
+    - target: {fileID: 7338201849018546606, guid: 6fce26aa644001545b2292180933dccc, type: 3}
+      propertyPath: figureName
+      value: Corn
+      objectReference: {fileID: 0}
+    - target: {fileID: 7338201849018546606, guid: 6fce26aa644001545b2292180933dccc, type: 3}
+      propertyPath: isFigureCube
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8879063646136325418, guid: 6fce26aa644001545b2292180933dccc, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 91fe56a0d04d7f546b3689161ebb94bf, type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6fce26aa644001545b2292180933dccc, type: 3}

@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: d4b26dbc165f34552b6e9435671c8fb9
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable:
+  - first:
+      74: 7100651697035082602
+    second: group1|group1|Take 001|BaseLayer
+  - first:
+      74: -6028166069962150673
+    second: group1|omurga_curve|Take 001|BaseLayer
+  - first:
+      74: -2633688635824485917
+    second: group1|sag_arka_ayak|Take 001|BaseLayer
+  - first:
+      74: 1085034469735902767
+    second: group1|sag_ayak|Take 001|BaseLayer
+  - first:
+      74: 2740541945701528362
+    second: group1|sol_arka_ayak|Take 001|BaseLayer
+  - first:
+      74: -3506355867931073427
+    second: group1|sol_ayak|Take 001|BaseLayer
+  - first:
+      74: 8400196629180520629
+    second: sol_ayak|omurga_curve|Take 001|BaseLayer
+  - first:
+      74: 791649643701164425
+    second: sol_ayak|sag_arka_ayak|Take 001|BaseLayer
+  - first:
+      74: 4068963327598975121
+    second: sol_ayak|sag_ayak|Take 001|BaseLayer
+  - first:
+      74: -3333984248162443070
+    second: sol_ayak|sol_arka_ayak|Take 001|BaseLayer
+  - first:
+      74: -7480634511704396949
+    second: sol_ayak|sol_ayak|Take 001|BaseLayer
+  - first:
+      74: 6896803726951211161
+    second: sag_ayak|omurga_curve|Take 001|BaseLayer
+  - first:
+      74: -4531865628571343039
+    second: sag_ayak|sag_arka_ayak|Take 001|BaseLayer
+  - first:
+      74: 1443876300253642889
+    second: sag_ayak|sag_ayak|Take 001|BaseLayer
+  - first:
+      74: -6463427105653603568
+    second: sag_ayak|sol_arka_ayak|Take 001|BaseLayer
+  - first:
+      74: 113105019351537082
+    second: sag_ayak|sol_ayak|Take 001|BaseLayer
+  - first:
+      74: -4057555859125463817
+    second: sol_arka_ayak|omurga_curve|Take 001|BaseLayer
+  - first:
+      74: 4048897631921741966
+    second: sol_arka_ayak|sag_arka_ayak|Take 001|BaseLayer
+  - first:
+      74: 6876147580903406714
+    second: sol_arka_ayak|sag_ayak|Take 001|BaseLayer
+  - first:
+      74: -1405525168409113691
+    second: sol_arka_ayak|sol_arka_ayak|Take 001|BaseLayer
+  - first:
+      74: -4517142870693692862
+    second: sol_arka_ayak|sol_ayak|Take 001|BaseLayer
+  - first:
+      74: -4156056917591487749
+    second: sag_arka_ayak|omurga_curve|Take 001|BaseLayer
+  - first:
+      74: -2799118552155301214
+    second: sag_arka_ayak|sag_arka_ayak|Take 001|BaseLayer
+  - first:
+      74: -3566132534331840636
+    second: sag_arka_ayak|sag_ayak|Take 001|BaseLayer
+  - first:
+      74: 6079632127138885876
+    second: sag_arka_ayak|sol_arka_ayak|Take 001|BaseLayer
+  - first:
+      74: -7392821864475705400
+    second: sag_arka_ayak|sol_ayak|Take 001|BaseLayer
+  - first:
+      74: -4506218387607676814
+    second: omurga_curve|omurga_curve|Take 001|BaseLayer
+  - first:
+      74: 6710341730553551205
+    second: omurga_curve|sag_arka_ayak|Take 001|BaseLayer
+  - first:
+      74: -6445775099514607735
+    second: omurga_curve|sag_ayak|Take 001|BaseLayer
+  - first:
+      74: -5243719537246929120
+    second: omurga_curve|sol_arka_ayak|Take 001|BaseLayer
+  - first:
+      74: -4027272041577335764
+    second: omurga_curve|sol_ayak|Take 001|BaseLayer
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
